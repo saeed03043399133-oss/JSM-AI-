@@ -1,6 +1,0 @@
-streamlit
-requests
-Pillow
-moviepy
-edge-tts
-numpy
